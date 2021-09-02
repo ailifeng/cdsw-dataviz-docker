@@ -1,0 +1,1 @@
+FROM docker.repository.cloudera.com/cloudera/cdv/cdswdataviz:6.3.1-b27
